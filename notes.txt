@@ -1,1 +1,2 @@
 Git records snapshots of a project.
+The working tree contains files you edit, and the staging area selects changes for the next commit.
