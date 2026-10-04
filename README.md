@@ -6,3 +6,4 @@
 2. Search
 3. Profile
 4. Dark Mode
+5. Notifications
