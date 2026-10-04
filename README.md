@@ -1,9 +1,8 @@
-# WEBBAKERY
+# Git Merge Conflict Practice
 
-## Dark mode
+## Features
 
-Dark mode provides a darker appearance for the interface, making it more comfortable to use in low-light environments.
-
-## Notifications
-
-Notifications keep users informed about important updates and activity in the application.
+1. Login
+2. Search
+3. Profile
+4. Notifications
