@@ -1,0 +1,5 @@
+# Ignore generated build output and local logs.
+*.log
+build/
+
+# Ignore rules do not remove files already committed to Git history.
